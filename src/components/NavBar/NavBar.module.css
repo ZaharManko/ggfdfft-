@@ -1,0 +1,17 @@
+
+.item{
+    color: rgb(246, 192, 192);
+    cursor: pointer;
+    font-size: 24px;
+    padding: 5px;
+}
+.nav{
+    background-color: brown;
+    grid-area: n;
+   padding: 5px;
+}
+.item a.active{
+    border: 1px solid #000;
+    background-color: darkmagenta;
+    color: rgb(246, 192, 192);
+}

@@ -1,0 +1,14 @@
+.dialogs{
+    display: flex;
+    align-items: center;
+}
+.dialog.active{
+    color: goldenrod;
+}
+.messages{
+    padding-left: 70px;
+}
+.dialogsItems{
+    display: flex;
+    flex-direction: column;
+}
